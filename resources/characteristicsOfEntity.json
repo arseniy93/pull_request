@@ -1,0 +1,113 @@
+[ {
+  "Wolf" : [ {
+    "weight" : 50.0,
+    "maxCoutnOfMovesOnField" : 30.0,
+    "velocity" : 3.0,
+    "eatToFull" : 8.0
+  } ]
+}, {
+  "BoaConstrictor" : [ {
+    "weight" : 15.0,
+    "maxCoutnOfMovesOnField" : 30.0,
+    "velocity" : 1.0,
+    "eatToFull" : 3.0
+  } ]
+}, {
+  "Fox" : [ {
+    "weight" : 8.0,
+    "maxCoutnOfMovesOnField" : 30.0,
+    "velocity" : 2.0,
+    "eatToFull" : 2.0
+  } ]
+}, {
+  "Bear" : [ {
+    "weight" : 500.0,
+    "maxCoutnOfMovesOnField" : 5.0,
+    "velocity" : 2.0,
+    "eatToFull" : 80.0
+  } ]
+}, {
+  "Eagle" : [ {
+    "weight" : 6.0,
+    "maxCoutnOfMovesOnField" : 20.0,
+    "velocity" : 3.0,
+    "eatToFull" : 1.0
+  } ]
+}, {
+  "Horse" : [ {
+    "weight" : 400.0,
+    "maxCoutnOfMovesOnField" : 20.0,
+    "velocity" : 4.0,
+    "eatToFull" : 60.0
+  } ]
+}, {
+  "Deer" : [ {
+    "weight" : 300.0,
+    "maxCoutnOfMovesOnField" : 20.0,
+    "velocity" : 4.0,
+    "eatToFull" : 50.0
+  } ]
+}, {
+  "Rabbit" : [ {
+    "weight" : 2.0,
+    "maxCoutnOfMovesOnField" : 150.0,
+    "velocity" : 2.0,
+    "eatToFull" : 0.45
+  } ]
+}, {
+  "Mouse" : [ {
+    "weight" : 0.05,
+    "maxCoutnOfMovesOnField" : 500.0,
+    "velocity" : 1.0,
+    "eatToFull" : 0.01
+  } ]
+}, {
+  "Goat" : [ {
+    "weight" : 60.0,
+    "maxCoutnOfMovesOnField" : 140.0,
+    "velocity" : 3.0,
+    "eatToFull" : 10.0
+  } ]
+}, {
+  "Sheep" : [ {
+    "weight" : 70.0,
+    "maxCoutnOfMovesOnField" : 140.0,
+    "velocity" : 3.0,
+    "eatToFull" : 15.0
+  } ]
+}, {
+  "WildBoar" : [ {
+    "weight" : 400.0,
+    "maxCoutnOfMovesOnField" : 50.0,
+    "velocity" : 2.0,
+    "eatToFull" : 50.0
+  } ]
+}, {
+  "Buffalo" : [ {
+    "weight" : 700.0,
+    "maxCoutnOfMovesOnField" : 10.0,
+    "velocity" : 3.0,
+    "eatToFull" : 100.0
+  } ]
+}, {
+  "Duck" : [ {
+    "weight" : 1.0,
+    "maxCoutnOfMovesOnField" : 200.0,
+    "velocity" : 4.0,
+    "eatToFull" : 0.15
+  } ]
+}, {
+  "Caterpillar" : [ {
+    "weight" : 0.01,
+    "maxCoutnOfMovesOnField" : 1000.0,
+    "velocity" : 0.0,
+    "eatToFull" : 0.0
+  } ]
+}, {
+  "Plants" : [ {
+    "weight" : 1.0,
+    "maxCoutnOfMovesOnField" : 200.0,
+    "velocity" : 0,
+    "eatToFull" : 0
+  } ]
+} ]

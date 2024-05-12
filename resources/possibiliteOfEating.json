@@ -1,0 +1,961 @@
+[ {
+  "from" : "Wolf",
+  "to" : "Wolf",
+  "percent" : null
+}, {
+  "from" : "Wolf",
+  "to" : "BoaConstrictor",
+  "percent" : 0
+}, {
+  "from" : "Wolf",
+  "to" : "Fox",
+  "percent" : 0
+}, {
+  "from" : "Wolf",
+  "to" : "Bear",
+  "percent" : 0
+}, {
+  "from" : "Wolf",
+  "to" : "Eagle",
+  "percent" : 0
+}, {
+  "from" : "Wolf",
+  "to" : "Horse",
+  "percent" : 10
+}, {
+  "from" : "Wolf",
+  "to" : "Deer",
+  "percent" : 15
+}, {
+  "from" : "Wolf",
+  "to" : "Rabbit",
+  "percent" : 60
+}, {
+  "from" : "Wolf",
+  "to" : "Mouse",
+  "percent" : 80
+}, {
+  "from" : "Wolf",
+  "to" : "Goat",
+  "percent" : 60
+}, {
+  "from" : "Wolf",
+  "to" : "Sheep",
+  "percent" : 70
+}, {
+  "from" : "Wolf",
+  "to" : "WildBoar",
+  "percent" : 15
+}, {
+  "from" : "Wolf",
+  "to" : "Buffalo",
+  "percent" : 10
+}, {
+  "from" : "Wolf",
+  "to" : "Duck",
+  "percent" : 40
+}, {
+  "from" : "Wolf",
+  "to" : "Caterpillar",
+  "percent" : 0
+}, {
+  "from" : "Wolf",
+  "to" : "Plants",
+  "percent" : 0
+}, {
+  "from" : "BoaConstrictor",
+  "to" : "Wolf",
+  "percent" : 0
+}, {
+  "from" : "BoaConstrictor",
+  "to" : "BoaConstrictor",
+  "percent" : null
+}, {
+  "from" : "BoaConstrictor",
+  "to" : "Fox",
+  "percent" : 15
+}, {
+  "from" : "BoaConstrictor",
+  "to" : "Bear",
+  "percent" : 0
+}, {
+  "from" : "BoaConstrictor",
+  "to" : "Eagle",
+  "percent" : 0
+}, {
+  "from" : "BoaConstrictor",
+  "to" : "Horse",
+  "percent" : 0
+}, {
+  "from" : "BoaConstrictor",
+  "to" : "Deer",
+  "percent" : 0
+}, {
+  "from" : "BoaConstrictor",
+  "to" : "Rabbit",
+  "percent" : 20
+}, {
+  "from" : "BoaConstrictor",
+  "to" : "Mouse",
+  "percent" : 40
+}, {
+  "from" : "BoaConstrictor",
+  "to" : "Goat",
+  "percent" : 0
+}, {
+  "from" : "BoaConstrictor",
+  "to" : "Sheep",
+  "percent" : 0
+}, {
+  "from" : "BoaConstrictor",
+  "to" : "WildBoar",
+  "percent" : 0
+}, {
+  "from" : "BoaConstrictor",
+  "to" : "Buffalo",
+  "percent" : 0
+}, {
+  "from" : "BoaConstrictor",
+  "to" : "Duck",
+  "percent" : 10
+}, {
+  "from" : "BoaConstrictor",
+  "to" : "Caterpillar",
+  "percent" : 0
+}, {
+  "from" : "BoaConstrictor",
+  "to" : "Plants",
+  "percent" : 0
+}, {
+  "from" : "Fox",
+  "to" : "Wolf",
+  "percent" : 0
+}, {
+  "from" : "Fox",
+  "to" : "BoaConstrictor",
+  "percent" : 0
+}, {
+  "from" : "Fox",
+  "to" : "Fox",
+  "percent" : null
+}, {
+  "from" : "Fox",
+  "to" : "Bear",
+  "percent" : 0
+}, {
+  "from" : "Fox",
+  "to" : "Eagle",
+  "percent" : 0
+}, {
+  "from" : "Fox",
+  "to" : "Horse",
+  "percent" : 0
+}, {
+  "from" : "Fox",
+  "to" : "Deer",
+  "percent" : 0
+}, {
+  "from" : "Fox",
+  "to" : "Rabbit",
+  "percent" : 70
+}, {
+  "from" : "Fox",
+  "to" : "Mouse",
+  "percent" : 90
+}, {
+  "from" : "Fox",
+  "to" : "Goat",
+  "percent" : 0
+}, {
+  "from" : "Fox",
+  "to" : "Sheep",
+  "percent" : 0
+}, {
+  "from" : "Fox",
+  "to" : "WildBoar",
+  "percent" : 0
+}, {
+  "from" : "Fox",
+  "to" : "Buffalo",
+  "percent" : 0
+}, {
+  "from" : "Fox",
+  "to" : "Duck",
+  "percent" : 60
+}, {
+  "from" : "Fox",
+  "to" : "Caterpillar",
+  "percent" : 40
+}, {
+  "from" : "Fox",
+  "to" : "Plants",
+  "percent" : 0
+}, {
+  "from" : "Bear",
+  "to" : "Wolf",
+  "percent" : 0
+}, {
+  "from" : "Bear",
+  "to" : "BoaConstrictor",
+  "percent" : 80
+}, {
+  "from" : "Bear",
+  "to" : "Fox",
+  "percent" : 0
+}, {
+  "from" : "Bear",
+  "to" : "Bear",
+  "percent" : null
+}, {
+  "from" : "Bear",
+  "to" : "Eagle",
+  "percent" : 0
+}, {
+  "from" : "Bear",
+  "to" : "Horse",
+  "percent" : 40
+}, {
+  "from" : "Bear",
+  "to" : "Deer",
+  "percent" : 80
+}, {
+  "from" : "Bear",
+  "to" : "Rabbit",
+  "percent" : 80
+}, {
+  "from" : "Bear",
+  "to" : "Mouse",
+  "percent" : 90
+}, {
+  "from" : "Bear",
+  "to" : "Goat",
+  "percent" : 70
+}, {
+  "from" : "Bear",
+  "to" : "Sheep",
+  "percent" : 70
+}, {
+  "from" : "Bear",
+  "to" : "WildBoar",
+  "percent" : 50
+}, {
+  "from" : "Bear",
+  "to" : "Buffalo",
+  "percent" : 20
+}, {
+  "from" : "Bear",
+  "to" : "Duck",
+  "percent" : 10
+}, {
+  "from" : "Bear",
+  "to" : "Caterpillar",
+  "percent" : 0
+}, {
+  "from" : "Bear",
+  "to" : "Plants",
+  "percent" : 0
+}, {
+  "from" : "Eagle",
+  "to" : "Wolf",
+  "percent" : 0
+}, {
+  "from" : "Eagle",
+  "to" : "BoaConstrictor",
+  "percent" : 0
+}, {
+  "from" : "Eagle",
+  "to" : "Fox",
+  "percent" : 10
+}, {
+  "from" : "Eagle",
+  "to" : "Bear",
+  "percent" : 0
+}, {
+  "from" : "Eagle",
+  "to" : "Eagle",
+  "percent" : null
+}, {
+  "from" : "Eagle",
+  "to" : "Horse",
+  "percent" : 0
+}, {
+  "from" : "Eagle",
+  "to" : "Deer",
+  "percent" : 0
+}, {
+  "from" : "Eagle",
+  "to" : "Rabbit",
+  "percent" : 90
+}, {
+  "from" : "Eagle",
+  "to" : "Mouse",
+  "percent" : 90
+}, {
+  "from" : "Eagle",
+  "to" : "Goat",
+  "percent" : 0
+}, {
+  "from" : "Eagle",
+  "to" : "Sheep",
+  "percent" : 0
+}, {
+  "from" : "Eagle",
+  "to" : "WildBoar",
+  "percent" : 0
+}, {
+  "from" : "Eagle",
+  "to" : "Buffalo",
+  "percent" : 0
+}, {
+  "from" : "Eagle",
+  "to" : "Duck",
+  "percent" : 80
+}, {
+  "from" : "Eagle",
+  "to" : "Caterpillar",
+  "percent" : 0
+}, {
+  "from" : "Eagle",
+  "to" : "Plants",
+  "percent" : 0
+}, {
+  "from" : "Horse",
+  "to" : "Wolf",
+  "percent" : 0
+}, {
+  "from" : "Horse",
+  "to" : "BoaConstrictor",
+  "percent" : 0
+}, {
+  "from" : "Horse",
+  "to" : "Fox",
+  "percent" : 0
+}, {
+  "from" : "Horse",
+  "to" : "Bear",
+  "percent" : 0
+}, {
+  "from" : "Horse",
+  "to" : "Eagle",
+  "percent" : 0
+}, {
+  "from" : "Horse",
+  "to" : "Horse",
+  "percent" : null
+}, {
+  "from" : "Horse",
+  "to" : "Deer",
+  "percent" : 0
+}, {
+  "from" : "Horse",
+  "to" : "Rabbit",
+  "percent" : 0
+}, {
+  "from" : "Horse",
+  "to" : "Mouse",
+  "percent" : 0
+}, {
+  "from" : "Horse",
+  "to" : "Goat",
+  "percent" : 0
+}, {
+  "from" : "Horse",
+  "to" : "Sheep",
+  "percent" : 0
+}, {
+  "from" : "Horse",
+  "to" : "WildBoar",
+  "percent" : 0
+}, {
+  "from" : "Horse",
+  "to" : "Buffalo",
+  "percent" : 0
+}, {
+  "from" : "Horse",
+  "to" : "Duck",
+  "percent" : 0
+}, {
+  "from" : "Horse",
+  "to" : "Caterpillar",
+  "percent" : 0
+}, {
+  "from" : "Horse",
+  "to" : "Plants",
+  "percent" : 100
+}, {
+  "from" : "Deer",
+  "to" : "Wolf",
+  "percent" : 0
+}, {
+  "from" : "Deer",
+  "to" : "BoaConstrictor",
+  "percent" : 0
+}, {
+  "from" : "Deer",
+  "to" : "Fox",
+  "percent" : 0
+}, {
+  "from" : "Deer",
+  "to" : "Bear",
+  "percent" : 0
+}, {
+  "from" : "Deer",
+  "to" : "Eagle",
+  "percent" : 0
+}, {
+  "from" : "Deer",
+  "to" : "Horse",
+  "percent" : 0
+}, {
+  "from" : "Deer",
+  "to" : "Deer",
+  "percent" : null
+}, {
+  "from" : "Deer",
+  "to" : "Rabbit",
+  "percent" : 0
+}, {
+  "from" : "Deer",
+  "to" : "Mouse",
+  "percent" : 0
+}, {
+  "from" : "Deer",
+  "to" : "Goat",
+  "percent" : 0
+}, {
+  "from" : "Deer",
+  "to" : "Sheep",
+  "percent" : 0
+}, {
+  "from" : "Deer",
+  "to" : "WildBoar",
+  "percent" : 0
+}, {
+  "from" : "Deer",
+  "to" : "Buffalo",
+  "percent" : 0
+}, {
+  "from" : "Deer",
+  "to" : "Duck",
+  "percent" : 0
+}, {
+  "from" : "Deer",
+  "to" : "Caterpillar",
+  "percent" : 0
+}, {
+  "from" : "Deer",
+  "to" : "Plants",
+  "percent" : 100
+}, {
+  "from" : "Rabbit",
+  "to" : "Wolf",
+  "percent" : 0
+}, {
+  "from" : "Rabbit",
+  "to" : "BoaConstrictor",
+  "percent" : 0
+}, {
+  "from" : "Rabbit",
+  "to" : "Fox",
+  "percent" : 0
+}, {
+  "from" : "Rabbit",
+  "to" : "Bear",
+  "percent" : 0
+}, {
+  "from" : "Rabbit",
+  "to" : "Eagle",
+  "percent" : 0
+}, {
+  "from" : "Rabbit",
+  "to" : "Horse",
+  "percent" : 0
+}, {
+  "from" : "Rabbit",
+  "to" : "Deer",
+  "percent" : 0
+}, {
+  "from" : "Rabbit",
+  "to" : "Rabbit",
+  "percent" : null
+}, {
+  "from" : "Rabbit",
+  "to" : "Mouse",
+  "percent" : 0
+}, {
+  "from" : "Rabbit",
+  "to" : "Goat",
+  "percent" : 0
+}, {
+  "from" : "Rabbit",
+  "to" : "Sheep",
+  "percent" : 0
+}, {
+  "from" : "Rabbit",
+  "to" : "WildBoar",
+  "percent" : 0
+}, {
+  "from" : "Rabbit",
+  "to" : "Buffalo",
+  "percent" : 0
+}, {
+  "from" : "Rabbit",
+  "to" : "Duck",
+  "percent" : 0
+}, {
+  "from" : "Rabbit",
+  "to" : "Caterpillar",
+  "percent" : 0
+}, {
+  "from" : "Rabbit",
+  "to" : "Plants",
+  "percent" : 100
+}, {
+  "from" : "Mouse",
+  "to" : "Wolf",
+  "percent" : 0
+}, {
+  "from" : "Mouse",
+  "to" : "BoaConstrictor",
+  "percent" : 0
+}, {
+  "from" : "Mouse",
+  "to" : "Fox",
+  "percent" : 0
+}, {
+  "from" : "Mouse",
+  "to" : "Bear",
+  "percent" : 0
+}, {
+  "from" : "Mouse",
+  "to" : "Eagle",
+  "percent" : 0
+}, {
+  "from" : "Mouse",
+  "to" : "Horse",
+  "percent" : 0
+}, {
+  "from" : "Mouse",
+  "to" : "Deer",
+  "percent" : 0
+}, {
+  "from" : "Mouse",
+  "to" : "Rabbit",
+  "percent" : 0
+}, {
+  "from" : "Mouse",
+  "to" : "Mouse",
+  "percent" : null
+}, {
+  "from" : "Mouse",
+  "to" : "Goat",
+  "percent" : 0
+}, {
+  "from" : "Mouse",
+  "to" : "Sheep",
+  "percent" : 0
+}, {
+  "from" : "Mouse",
+  "to" : "WildBoar",
+  "percent" : 0
+}, {
+  "from" : "Mouse",
+  "to" : "Buffalo",
+  "percent" : 0
+}, {
+  "from" : "Mouse",
+  "to" : "Duck",
+  "percent" : 0
+}, {
+  "from" : "Mouse",
+  "to" : "Caterpillar",
+  "percent" : 90
+}, {
+  "from" : "Mouse",
+  "to" : "Plants",
+  "percent" : 100
+}, {
+  "from" : "Goat",
+  "to" : "Wolf",
+  "percent" : 0
+}, {
+  "from" : "Goat",
+  "to" : "BoaConstrictor",
+  "percent" : 0
+}, {
+  "from" : "Goat",
+  "to" : "Fox",
+  "percent" : 0
+}, {
+  "from" : "Goat",
+  "to" : "Bear",
+  "percent" : 0
+}, {
+  "from" : "Goat",
+  "to" : "Eagle",
+  "percent" : 0
+}, {
+  "from" : "Goat",
+  "to" : "Horse",
+  "percent" : 0
+}, {
+  "from" : "Goat",
+  "to" : "Deer",
+  "percent" : 0
+}, {
+  "from" : "Goat",
+  "to" : "Rabbit",
+  "percent" : 0
+}, {
+  "from" : "Goat",
+  "to" : "Mouse",
+  "percent" : 0
+}, {
+  "from" : "Goat",
+  "to" : "Goat",
+  "percent" : null
+}, {
+  "from" : "Goat",
+  "to" : "Sheep",
+  "percent" : 0
+}, {
+  "from" : "Goat",
+  "to" : "WildBoar",
+  "percent" : 0
+}, {
+  "from" : "Goat",
+  "to" : "Buffalo",
+  "percent" : 0
+}, {
+  "from" : "Goat",
+  "to" : "Duck",
+  "percent" : 0
+}, {
+  "from" : "Goat",
+  "to" : "Caterpillar",
+  "percent" : 0
+}, {
+  "from" : "Goat",
+  "to" : "Plants",
+  "percent" : 100
+}, {
+  "from" : "Sheep",
+  "to" : "Wolf",
+  "percent" : 0
+}, {
+  "from" : "Sheep",
+  "to" : "BoaConstrictor",
+  "percent" : 0
+}, {
+  "from" : "Sheep",
+  "to" : "Fox",
+  "percent" : 0
+}, {
+  "from" : "Sheep",
+  "to" : "Bear",
+  "percent" : 0
+}, {
+  "from" : "Sheep",
+  "to" : "Eagle",
+  "percent" : 0
+}, {
+  "from" : "Sheep",
+  "to" : "Horse",
+  "percent" : 0
+}, {
+  "from" : "Sheep",
+  "to" : "Deer",
+  "percent" : 0
+}, {
+  "from" : "Sheep",
+  "to" : "Rabbit",
+  "percent" : 0
+}, {
+  "from" : "Sheep",
+  "to" : "Mouse",
+  "percent" : 0
+}, {
+  "from" : "Sheep",
+  "to" : "Goat",
+  "percent" : 0
+}, {
+  "from" : "Sheep",
+  "to" : "Sheep",
+  "percent" : null
+}, {
+  "from" : "Sheep",
+  "to" : "WildBoar",
+  "percent" : 0
+}, {
+  "from" : "Sheep",
+  "to" : "Buffalo",
+  "percent" : 0
+}, {
+  "from" : "Sheep",
+  "to" : "Duck",
+  "percent" : 0
+}, {
+  "from" : "Sheep",
+  "to" : "Caterpillar",
+  "percent" : 0
+}, {
+  "from" : "Sheep",
+  "to" : "Plants",
+  "percent" : 100
+}, {
+  "from" : "WildBoar",
+  "to" : "Wolf",
+  "percent" : 0
+}, {
+  "from" : "WildBoar",
+  "to" : "BoaConstrictor",
+  "percent" : 0
+}, {
+  "from" : "WildBoar",
+  "to" : "Fox",
+  "percent" : 0
+}, {
+  "from" : "WildBoar",
+  "to" : "Bear",
+  "percent" : 0
+}, {
+  "from" : "WildBoar",
+  "to" : "Eagle",
+  "percent" : 0
+}, {
+  "from" : "WildBoar",
+  "to" : "Horse",
+  "percent" : 0
+}, {
+  "from" : "WildBoar",
+  "to" : "Deer",
+  "percent" : 0
+}, {
+  "from" : "WildBoar",
+  "to" : "Rabbit",
+  "percent" : 0
+}, {
+  "from" : "WildBoar",
+  "to" : "Mouse",
+  "percent" : 50
+}, {
+  "from" : "WildBoar",
+  "to" : "Goat",
+  "percent" : 0
+}, {
+  "from" : "WildBoar",
+  "to" : "Sheep",
+  "percent" : 0
+}, {
+  "from" : "WildBoar",
+  "to" : "WildBoar",
+  "percent" : null
+}, {
+  "from" : "WildBoar",
+  "to" : "Buffalo",
+  "percent" : 0
+}, {
+  "from" : "WildBoar",
+  "to" : "Duck",
+  "percent" : 0
+}, {
+  "from" : "WildBoar",
+  "to" : "Caterpillar",
+  "percent" : 90
+}, {
+  "from" : "WildBoar",
+  "to" : "Plants",
+  "percent" : 100
+}, {
+  "from" : "Buffalo",
+  "to" : "Wolf",
+  "percent" : 0
+}, {
+  "from" : "Buffalo",
+  "to" : "BoaConstrictor",
+  "percent" : 0
+}, {
+  "from" : "Buffalo",
+  "to" : "Fox",
+  "percent" : 0
+}, {
+  "from" : "Buffalo",
+  "to" : "Bear",
+  "percent" : 0
+}, {
+  "from" : "Buffalo",
+  "to" : "Eagle",
+  "percent" : 0
+}, {
+  "from" : "Buffalo",
+  "to" : "Horse",
+  "percent" : 0
+}, {
+  "from" : "Buffalo",
+  "to" : "Deer",
+  "percent" : 0
+}, {
+  "from" : "Buffalo",
+  "to" : "Rabbit",
+  "percent" : 0
+}, {
+  "from" : "Buffalo",
+  "to" : "Mouse",
+  "percent" : 0
+}, {
+  "from" : "Buffalo",
+  "to" : "Goat",
+  "percent" : 0
+}, {
+  "from" : "Buffalo",
+  "to" : "Sheep",
+  "percent" : 0
+}, {
+  "from" : "Buffalo",
+  "to" : "WildBoar",
+  "percent" : 0
+}, {
+  "from" : "Buffalo",
+  "to" : "Buffalo",
+  "percent" : null
+}, {
+  "from" : "Buffalo",
+  "to" : "Duck",
+  "percent" : 0
+}, {
+  "from" : "Buffalo",
+  "to" : "Caterpillar",
+  "percent" : 0
+}, {
+  "from" : "Buffalo",
+  "to" : "Plants",
+  "percent" : 100
+}, {
+  "from" : "Duck",
+  "to" : "Wolf",
+  "percent" : 0
+}, {
+  "from" : "Duck",
+  "to" : "BoaConstrictor",
+  "percent" : 0
+}, {
+  "from" : "Duck",
+  "to" : "Fox",
+  "percent" : 0
+}, {
+  "from" : "Duck",
+  "to" : "Bear",
+  "percent" : 0
+}, {
+  "from" : "Duck",
+  "to" : "Eagle",
+  "percent" : 0
+}, {
+  "from" : "Duck",
+  "to" : "Horse",
+  "percent" : 0
+}, {
+  "from" : "Duck",
+  "to" : "Deer",
+  "percent" : 0
+}, {
+  "from" : "Duck",
+  "to" : "Rabbit",
+  "percent" : 0
+}, {
+  "from" : "Duck",
+  "to" : "Mouse",
+  "percent" : 0
+}, {
+  "from" : "Duck",
+  "to" : "Goat",
+  "percent" : 0
+}, {
+  "from" : "Duck",
+  "to" : "Sheep",
+  "percent" : 0
+}, {
+  "from" : "Duck",
+  "to" : "WildBoar",
+  "percent" : 0
+}, {
+  "from" : "Duck",
+  "to" : "Buffalo",
+  "percent" : 0
+}, {
+  "from" : "Duck",
+  "to" : "Duck",
+  "percent" : null
+}, {
+  "from" : "Duck",
+  "to" : "Caterpillar",
+  "percent" : 90
+}, {
+  "from" : "Duck",
+  "to" : "Plants",
+  "percent" : 100
+}, {
+  "from" : "Caterpillar",
+  "to" : "Wolf",
+  "percent" : 0
+}, {
+  "from" : "Caterpillar",
+  "to" : "BoaConstrictor",
+  "percent" : 0
+}, {
+  "from" : "Caterpillar",
+  "to" : "Fox",
+  "percent" : 0
+}, {
+  "from" : "Caterpillar",
+  "to" : "Bear",
+  "percent" : 0
+}, {
+  "from" : "Caterpillar",
+  "to" : "Eagle",
+  "percent" : 0
+}, {
+  "from" : "Caterpillar",
+  "to" : "Horse",
+  "percent" : 0
+}, {
+  "from" : "Caterpillar",
+  "to" : "Deer",
+  "percent" : 0
+}, {
+  "from" : "Caterpillar",
+  "to" : "Rabbit",
+  "percent" : 0
+}, {
+  "from" : "Caterpillar",
+  "to" : "Mouse",
+  "percent" : 0
+}, {
+  "from" : "Caterpillar",
+  "to" : "Goat",
+  "percent" : 0
+}, {
+  "from" : "Caterpillar",
+  "to" : "Sheep",
+  "percent" : 0
+}, {
+  "from" : "Caterpillar",
+  "to" : "WildBoar",
+  "percent" : 0
+}, {
+  "from" : "Caterpillar",
+  "to" : "Buffalo",
+  "percent" : 0
+}, {
+  "from" : "Caterpillar",
+  "to" : "Duck",
+  "percent" : 0
+}, {
+  "from" : "Caterpillar",
+  "to" : "Caterpillar",
+  "percent" : null
+}, {
+  "from" : "Caterpillar",
+  "to" : "Plants",
+  "percent" : 100
+} ]
